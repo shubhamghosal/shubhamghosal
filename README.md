@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src=https://komarev.com/ghpvc/?username=shubhamghosal/>
+![Visitor Count](https : //profile-counter.glitch.me/shubhamghosal/count.svg)
 
 Hi, I'm Shubham Ghosal, a passionate and dedicated engineer from India looking to revolutionize software designing. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
