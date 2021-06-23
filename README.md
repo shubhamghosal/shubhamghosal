@@ -1,3 +1,4 @@
+<center>
 ### Hi there 👋
 
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/shubhamghosal)
@@ -13,3 +14,4 @@ Technologies I work on:
 Some more stats:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=shubhamghosal)    
+</center>
