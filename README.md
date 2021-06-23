@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![counter](https://shubhamghosal.m.pipedream.net)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/shubhamghosal)
 
 Hi, I'm Shubham Ghosal, a passionate and dedicated engineer from India looking to revolutionize software designing. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
