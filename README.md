@@ -6,10 +6,10 @@ Hi, I'm Shubham Ghosal, a passionate and dedicated engineer from India, looking 
 
 I am also a big fan of open-source projects and DIY's. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-Some stats:
+Technologies I work the most:
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=shubhamghosal)    
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamghosal&theme=blue-green)
 
 Some more stats:
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamghosal&theme=blue-green)
+![Github stats](https://github-readme-stats.vercel.app/api?username=shubhamghosal)    
