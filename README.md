@@ -16,7 +16,6 @@ I am also a big fan of open-source projects and DIY's. I learn a lot from the op
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=shubhamghosal)
 
-<div text-align="center"> 
 **Technologies I work on:** 
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
@@ -35,7 +34,7 @@ I am also a big fan of open-source projects and DIY's. I learn a lot from the op
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"></code>
-</div>
+
 **Some more stats:**
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=shubhamghosal)    
