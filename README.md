@@ -14,7 +14,7 @@ I'm Shubham Ghosal, a passionate and dedicated engineer from India, looking to r
 
 I am also a big fan of open-source projects and DIY's. I learn a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/shubhamghosal)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=shubhamghosal)
 
 **Technologies I work on:** 
 
