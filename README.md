@@ -16,7 +16,7 @@ I am also a big fan of open-source projects and DIY's. I learned a lot from the 
 
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/shubhamghosal)
 
-**Languages and Technologies:** 
+**Technologies I work on:** 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"></code>
