@@ -14,7 +14,7 @@ I'm Shubham Ghosal, a passionate and dedicated engineer from India, looking to r
 
 I am also a big fan of open-source projects and DIY's. I learn a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source.
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=shubhamghosal)
+![](https://komarev.com/ghpvc/?username=your-github-shubhamghosal&color=green)
 
 **Technologies I work on:** 
 
