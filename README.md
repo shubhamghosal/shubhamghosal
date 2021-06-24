@@ -61,8 +61,10 @@ I'm Shubham Ghosal, a passionate and dedicated electronics engineer currently lo
 </div>
 
 <div align="center">
- <h3>😂 Finally here's a random joke that'll make you laugh!</h3>
+ <h3>Finally here's a random joke that'll make you laugh😂:</h3>
+   
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+   
 </div>
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
