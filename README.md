@@ -57,11 +57,12 @@ I'm Shubham Ghosal, a passionate and dedicated electronics engineer currently lo
 <div align="center">
    <h3>Some more stats:</h3>
 
-![Shubham's Github Stats](https://github-readme-stats.vercel.app/api?username=shubhamghosal&show_icons=true)
+[![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamghosal&hide=issues,contribs&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+   
 </div>
 
 <div align="center">
- <h3>Finally here's a random joke that'll make you laugh😂:</h3>
+ <h3>A random joke that'll make you laugh😂:</h3>
    
 ![Jokes Card](https://readme-jokes.vercel.app/api)
    
