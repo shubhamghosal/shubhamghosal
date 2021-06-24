@@ -15,6 +15,9 @@
   <a href="https://www.instagram.com/electronically_energized/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
+     <a href="https://twitter.com/ShubhamGhoshal">
+    <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FShubhamGhoshal" />        
+  </a>&nbsp;&nbsp;
 </p>
 
 <div align="center">
