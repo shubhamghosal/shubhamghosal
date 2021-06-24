@@ -31,7 +31,7 @@ I am also a big fan of open-source projects and DIY's. I learn a lot from the op
 </div>
 
 <div align="center">
-**Technologies I work on:** 
+   <h3>Technologies I work on:</h3>
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
@@ -51,7 +51,7 @@ I am also a big fan of open-source projects and DIY's. I learn a lot from the op
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"></code>
 </div>
 <div align="center">
-**Some more stats:**
+   <h3>Some more stats:</h3>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=shubhamghosal)    
 </div>
