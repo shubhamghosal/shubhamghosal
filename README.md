@@ -1,7 +1,9 @@
+<div align="center">
+   <h1>Hi there, I'm Hemant <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+</div>
 
-### Hi there 👋
 
-<p align='left'>
+<p align='center'>
   <a href="https://www.linkedin.com/in/shubham-ghosal/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -10,9 +12,15 @@
   </a>&nbsp;&nbsp;
 </p>
 
+<div align="center">
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Shubham Ghosal | 💻 Engineer | 🛸 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+</div>
+
+<div align="center">
 I'm Shubham Ghosal, a passionate and dedicated engineer from India, looking to revolutionize software designing. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also a big fan of open-source projects and DIY's. I learn a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source.
+</div>
 
 ![](https://komarev.com/ghpvc/?username=your-github-shubhamghosal&color=blue)
 
