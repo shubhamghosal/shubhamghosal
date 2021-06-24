@@ -57,7 +57,7 @@ I'm Shubham Ghosal, a passionate and dedicated electronics engineer currently lo
 <div align="center">
    <h3>Some more stats:</h3>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=shubhamghosal)    
+![Shubham's Github Stats](https://github-readme-stats.vercel.app/api?username=shubhamghosal&show_icons=true)
 </div>
 
 <div align="center">
