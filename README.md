@@ -22,12 +22,12 @@
 </div>
 
 <div align="center">
-   <h3 align="center"><u>About me: </u></h3>
+   <h3 align="center">About me:</h3>
 I'm Shubham Ghosal, a passionate and dedicated electronics engineer currently looking forward to revolutionize software designing. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I am also a big fan of open-source projects and DIY's. I learn a lot from the open-source community and absolutely love how collaboration and knowledge sharing happens through open-source.
 </div>
 
 <div align="center">
-   <h3><u>Technologies I work on:</u></h3>
+   <h3>Technologies I work on:</h3>
    
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
@@ -48,7 +48,7 @@ I'm Shubham Ghosal, a passionate and dedicated electronics engineer currently lo
    
 </div>
 <div align="center">
-   <h3><u>Some more stats:</u></h3>
+   <h3>Some more stats:</h3>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=shubhamghosal)    
 </div>
