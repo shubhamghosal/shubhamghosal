@@ -1,5 +1,10 @@
 <div align="center">
    <h1>Hi there, I'm Shubham <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <div align="center">
+   
+![](https://komarev.com/ghpvc/?username=your-github-shubhamghosal&color=blue)
+   
+</div>
 </div>
 
 <p align='center'>
@@ -10,12 +15,6 @@
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </p>
-
-<div align="center">
-   
-![](https://komarev.com/ghpvc/?username=your-github-shubhamghosal&color=blue)
-   
-</div>
 
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Shubham Ghosal | 💻 Electronics Engineer |	🛸 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
