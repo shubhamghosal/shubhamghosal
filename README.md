@@ -68,4 +68,4 @@ I'm Shubham Ghosal, a passionate and dedicated electronics engineer currently lo
    
 </div>
 
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+<h1 align='center'>⚡️<i>Stay Awesome!</i>⚡️</h1>
