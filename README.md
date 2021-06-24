@@ -13,6 +13,12 @@
 </p>
 
 <div align="center">
+   
+![](https://komarev.com/ghpvc/?username=your-github-shubhamghosal&color=blue)
+   
+</div>
+
+<div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Shubham Ghosal | 💻 Engineer | 🛸 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
@@ -22,12 +28,6 @@ I'm Shubham Ghosal, a passionate and dedicated engineer from India, looking to r
 <br>
 <div align="justify">
 I am also a big fan of open-source projects and DIY's. I learn a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source.
-</div>
-
-<div align="center">
-   
-![](https://komarev.com/ghpvc/?username=your-github-shubhamghosal&color=blue)
-   
 </div>
 
 <div align="center">
