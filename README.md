@@ -62,7 +62,7 @@ I'm Shubham Ghosal, a passionate and dedicated electronics engineer currently lo
 </div>
 
 <div align="center">
- <h3>A random joke that'll make you laugh😂:</h3>
+ <h3>Ending with a joke to make you laugh😂:</h3>
    
 ![Jokes Card](https://readme-jokes.vercel.app/api)
    
