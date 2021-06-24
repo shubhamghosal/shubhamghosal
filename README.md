@@ -21,7 +21,7 @@
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Shubham Ghosal | 💻 Electronics Engineer |	🛸 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
-<div align="justify">
+<div align="center">
    <h3 align="center">About me: </h3>
 I'm Shubham Ghosal, a passionate and dedicated electronics engineer currently looking forward to revolutionize software designing. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I am also a big fan of open-source projects and DIY's. I learn a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source.
 </div>
