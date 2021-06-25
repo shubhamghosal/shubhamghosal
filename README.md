@@ -9,6 +9,7 @@
 </div>
 
 <p align='center'>
+  <h3>Connect: </h3>
   <a href="https://www.linkedin.com/in/shubham-ghosal/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
