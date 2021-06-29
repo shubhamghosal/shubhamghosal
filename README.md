@@ -6,6 +6,8 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-shubhamghosal&color=blue)
    
+   ![Made with love in India](https://madewithlove.now.sh/in?heart=true&colorB=%233a38dc)
+   
 </div>
 
 <p align='center'>
