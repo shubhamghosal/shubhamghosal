@@ -63,9 +63,7 @@ I'm Shubham Ghosal, a passionate electronics engineer currently looking forward 
    
 </div>
 
-<p align="center">
-  <img src="https://github.com/shubhamghosal/raw/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
+
 
 <div align="center">
  <h3>Ending with a laugh😂:</h3>
