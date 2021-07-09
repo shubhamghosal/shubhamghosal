@@ -55,7 +55,6 @@ I'm Shubham Ghosal, a passionate electronics engineer currently looking forward 
    </div>
 <div align="center">
    <code><img height="25" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></code>
-   <code><img height="25" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></code>
 </div>
 
 <div align="center">
