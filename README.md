@@ -62,6 +62,9 @@ I'm Shubham Ghosal, a passionate electronics engineer currently looking forward 
 [![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamghosal&hide=issues,contribs&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
    
 </div>
+<p align="center">
+  <img src="https://github.com/shubhamghosal/shubhamghosal/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
 <div align="center">
  <h3>Ending with a laugh😂:</h3>
