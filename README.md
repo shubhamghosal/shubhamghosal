@@ -53,6 +53,7 @@ I'm Shubham Ghosal, a passionate electronics engineer currently looking forward 
 <code><img height="25" src="https://img.shields.io/badge/RASPBERRY%20PI-C51A4A.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white"></code>
 <code><img height="25" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></code>
    <code><img height="25" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></code>
+   	<code><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/></code>
 </div>
 <div align="center">
    <h3>Some more stats:</h3>
