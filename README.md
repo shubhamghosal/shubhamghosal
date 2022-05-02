@@ -29,7 +29,7 @@
 
 <div align="justify">
    <h3 align="center">About me:</h3>
-I'm Shubham Ghosal, a passionate electronics engineer currently looking forward to revolutionize the world of mainstream software designing. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I am also a big fan of open-source projects and DIY's simply because I learn a lot from the open-source community and absolutely love how collaboration along with knowledge sharing happens at open-source platforms such as this.
+I'm Shubham Ghosal, a passionate electronics engineer currently looking forward to revolutionize the world of mainstream embedded software designing. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I am also a big fan of open-source projects and DIY's simply because I learn a lot from the open-source community and absolutely love how collaboration along with knowledge sharing happens at open-source platforms such as this.
 </div>
 
 <div align="center">
