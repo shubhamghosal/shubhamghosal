@@ -35,6 +35,7 @@ I'm Shubham Ghosal, a passionate electronics engineer looking forward to revolut
 <div align="center">
    <h3>Technologies I work on:</h3>
    
+<code><img height="25" src="[https://img.shields.io/badge/BPM-Appian-blue"></code>   
 <code><img height="25" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></code>
 <code><img height="25" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
 <code><img height="25" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></code>
