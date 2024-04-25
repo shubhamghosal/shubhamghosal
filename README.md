@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/shubham-ghosal/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/electronically_energized/">
+  <a href="mailto:shubhamghosal@gmail.com">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
      <a href="https://twitter.com/ShubhamGhoshal">
